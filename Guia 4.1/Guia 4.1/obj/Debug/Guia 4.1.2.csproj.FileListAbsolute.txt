@@ -1,0 +1,11 @@
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\bin\Debug\Guia 4.1.exe.config
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\bin\Debug\Guia 4.1.exe
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\bin\Debug\Guia 4.1.pdb
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\obj\Debug\Guia 4.1.2.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\obj\Debug\Guia_4._1.DatosEnvio.resources
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\obj\Debug\Guia_4._1.Form1.resources
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\obj\Debug\Guia_4._1.Properties.Resources.resources
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\obj\Debug\Guia 4.1.2.csproj.GenerateResource.cache
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\obj\Debug\Guia 4.1.2.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\obj\Debug\Guia 4.1.exe
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 4.1\Guia 4.1\obj\Debug\Guia 4.1.pdb
